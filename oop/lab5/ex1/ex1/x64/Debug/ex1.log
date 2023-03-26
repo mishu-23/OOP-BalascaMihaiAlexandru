@@ -1,0 +1,6 @@
+﻿  Number.cpp
+C:\storage\facultate\oop\lab5\ex1\ex1\Number.cpp(31,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\storage\facultate\oop\lab5\ex1\ex1\Number.cpp(232,16): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\storage\facultate\oop\lab5\ex1\ex1\Number.cpp(277,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\storage\facultate\oop\lab5\ex1\ex1\Number.cpp(161): warning C4715: 'Number::operator[]': not all control paths return a value
+  ex1.vcxproj -> C:\storage\facultate\oop\lab5\ex1\x64\Debug\ex1.exe
