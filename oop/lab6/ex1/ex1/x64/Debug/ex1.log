@@ -1,0 +1,3 @@
+﻿  seat.cpp
+C:\storage\facultate\oop\lab6\ex1\ex1\seat.cpp(26): warning C4715: 'Seat::GetAverageSpeed': not all control paths return a value
+  ex1.vcxproj -> C:\storage\facultate\oop\lab6\ex1\x64\Debug\ex1.exe
