@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\storage\facultate\oop\lab11\lab11Testing\lab11Testing\main.cpp(6,12): warning C4101: 'i': unreferenced local variable
+C:\storage\facultate\oop\lab11\lab11Testing\lab11Testing\main.cpp(45,19): message : see reference to function template instantiation 'void QuickSort<int>(T [],int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  lab11Testing.vcxproj -> C:\storage\facultate\oop\lab11\lab11Testing\x64\Debug\lab11Testing.exe
